@@ -1,4 +1,4 @@
-# Statistical Inference Assignment 2
+# Statistical Inference Assignment 1
 
 The project consists of two parts:
 
